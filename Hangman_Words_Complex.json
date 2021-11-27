@@ -1,0 +1,82 @@
+{
+    "1" : [
+        {
+            "easy" : {
+                "word" : "book",
+                "hint" : "has words and sometimes pictures"
+            },
+            "medium" :{
+                "word" : "cheese",
+                "hint" : "dairy product used in your favorite foods"
+            },
+            "hard" : {
+                "word" : "Harbenger",
+                "hint" : "a person or thing that announces or signals the approach of another"
+            }
+        }
+    ],
+    "2" : [
+        {
+            "easy" : {
+                "word" : "dish",
+                "hint" : "mostly round and made of ceramic or plastic"
+            },
+            "medium" : {
+                "word" : "bridge",
+                "hint" : "used to get to the other side"
+            },
+            "hard" : {
+                "word" : "Warrior",
+                "hint" : "a brave or experienced fighter"
+            }
+        }
+    ],
+    "3" : [
+        {
+            "easy" : {
+                "word" : "mess",
+                "hint" : "the aftermath of a party"
+            },
+            "medium" :{
+                "word" : "Pirate",
+                "hint" : "robs or plunders"
+            },
+            "hard" : {
+                "word" : "Paintbrush",
+                "hint" : "tool to add some color to a medium"
+            }
+        }
+    ],
+    "4" : [
+        {
+            "easy" : {
+                "word" : "cast",
+                "hint" : "cause (light or shadow) to appear on a surface"
+            },
+            "medium" : {
+                "word" : "chrome",
+                "hint" : "a reflective appearence"
+            },
+            "hard" : {
+                "word" : "Questionable",
+                "hint" : "doubtful as regards truth or quality"
+            }
+        }
+    ],
+    "5" : [
+        {
+            "easy" : {
+                "word" : "file",
+                "hint" : "a source of data"
+            },
+            "medium" : {
+                "word" : "jacket",
+                "hint" : "a protective outer covering"
+            },
+            "hard" : {
+                "word" : "Fabricator",
+                "hint" : "a person who makes things by art or skill and labor"
+            }
+        }
+    ]
+}
